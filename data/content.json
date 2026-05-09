@@ -1,222 +1,384 @@
 {
   "navbar": {
-    "logoTagline": "The Steel Hub",
+    "logoTagline": "The Face Makers",
     "navLinks": [
-      { "href": "#about", "label": "About" },
-      { "href": "#products", "label": "Products" },
-      { "href": "#brands", "label": "Brands" },
-      { "href": "#cases", "label": "Case Studies" },
-      { "href": "#clients", "label": "Clients" }
+      {
+        "href": "#about",
+        "label": "About"
+      },
+      {
+        "href": "#services",
+        "label": "Services"
+      },
+      {
+        "href": "#treatments",
+        "label": "Treatments"
+      },
+      {
+        "href": "#cases",
+        "label": "Results"
+      },
+      {
+        "href": "#clients",
+        "label": "Testimonials"
+      }
     ],
-    "ctaLabel": "Contact Us"
+    "ctaLabel": "Book Now"
   },
   "categories": [
     {
-      "label": "Flat Products",
-      "title": "Plates, Sheets\n& Coils",
-      "img": "/products/ms-hrc-plate.jpeg",
-      "desc": "HRC plates, CRC sheets, GP plates and coils for heavy fabrication."
+      "label": "Classic Facials",
+      "title": "European & \nHydrating",
+      "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0",
+      "desc": "Timeless facial treatments combining traditional techniques with premium skincare products for deep cleansing and rejuvenation."
     },
     {
-      "label": "Structural Steel",
-      "title": "Angles, Beams\n& Channels",
-      "img": "/products/beams.jpeg",
-      "desc": "I-beams, H-beams, angles, channels and TMT bars for load-bearing structures."
+      "label": "Advanced Treatments",
+      "title": "Chemical Peels &\nMicrodermabrasion",
+      "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1",
+      "desc": "Professional-grade exfoliating treatments that resurface and renew your skin, revealing brighter, smoother complexion."
     },
     {
-      "label": "Roofing & Sheets",
-      "title": "Roofing &\nCladding",
-      "img": "/products/colour-coated-sheets.jpeg",
-      "desc": "GI corrugated, colour-coated, polycarbonate and deck sheets for all roofing needs."
+      "label": "Specialized Care",
+      "title": "Anti-Aging &\nAcne Solutions",
+      "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2",
+      "desc": "Targeted facial treatments designed to address fine lines, wrinkles, breakouts and other specific skin concerns with precision."
     }
   ],
   "theme": {
-    "primary": "#4A6FA5",
-    "primaryDark": "#2D5585",
-    "secondary": "#1B2A3B",
-    "secondaryLight": "#243550"
+    "primary": "#C56A39",
+    "primaryDark": "#C56A39",
+    "secondary": "#8B3E15",
+    "secondaryLight": "#8B3E15",
+    "accent": "#F5A672",
+    "accentLight": "#F5A672"
   },
   "branding": {
     "logoUrl": "",
-    "logoText": "NAMO STEEL",
-    "headingFont": "Inter",
+    "logoText": "The Face Makers",
+    "headingFont": "Space Grotesk",
     "bodyFont": "Inter",
-    "selectedPalette": "steel-midnight"
+    "selectedPalette": "warm-earth"
   },
   "hero": {
-    "badge": "SINCE 1995",
-    "title": "Steel Solutions for\nSolid Foundations.",
-    "subtitle": "Crafting the Backbone of Industry.",
-    "phone": "+91 98604 89490",
-    "ctaText": "Explore Products",
+    "badge": "EXPERT FACIALS",
+    "title": "Expert Facials &\nProfessional Skincare Solutions",
+    "subtitle": "Personalized, results-driven facial treatments using premium products and expert techniques for radiant, healthy skin.",
+    "phone": "+1 (555) 248-3627",
+    "ctaText": "Get in Touch",
     "stats": [
-      { "num": "30+", "label": "Years Experience" },
-      { "num": "15+", "label": "Brands" },
-      { "num": "ISI", "label": "Certified Products" }
+      {
+        "num": "500+",
+        "label": "Happy Clients"
+      },
+      {
+        "num": "15+",
+        "label": "Facial Types"
+      },
+      {
+        "num": "100%",
+        "label": "Satisfaction Rate"
+      }
     ]
   },
   "about": {
-    "sectionLabel": "About Our Company",
-    "heading": "Your Trusted Partner in Steel & Structure.",
-    "description": "We are trusted dealers in construction and industrial steel products, serving the industry for over 30 years. Known for quality, reliability, and competitive pricing, we supply ISI-certified steel with assured strength and precision. Backed by strong manufacturer tie-ups, we ensure timely delivery and customer satisfaction across every order.",
+    "sectionLabel": "About Our Salon",
+    "heading": "Your Destination for Radiant, Healthy Skin",
+    "description": "The Face Makers was founded on a passion for skincare and the belief that everyone deserves access to professional facial treatments. Our team of experienced estheticians specializes in customized facials that address individual skin concerns. We're committed to using high-quality products and proven techniques to help our clients achieve healthy, radiant skin. Since our opening, we've built our reputation on delivering exceptional results and personalized care, making us a trusted destination for facial treatments in our community.",
     "checklist": [
-      "ISI-Certified, High-Strength Products",
-      "Wide Product Range",
-      "30+ Years of Industry Trust"
+      "Customized Facial Treatments for All Skin Types",
+      "Medical-Grade Skincare Products",
+      "Expert Estheticians with Advanced Training"
     ],
-    "vision": "To deliver superior-quality steel solutions that consistently exceed customer expectations through innovation, service excellence, and long-term partnerships.",
-    "mission": "To build lasting relationships by offering exceptional service, embracing technology, and supporting every customer's steel requirement with integrity and expertise."
+    "vision": "To be the premier facial spa where everyone feels confident and beautiful through professional skincare expertise and personalized, transformative treatments.",
+    "mission": "At The Face Makers, our mission is to help our clients feel confident and beautiful by providing expert facial treatments tailored to their unique skin needs. We believe that great skin starts with personalized care, professional expertise, and high-quality products."
   },
   "why": {
     "sectionLabel": "Why Choose Us?",
-    "heading": "Reasons to Partner with Namo Steel",
+    "heading": "Reasons to Trust The Face Makers",
     "items": [
-      { "title": "30+ Years of Industry Experience" },
-      { "title": "ISI-Certified, High-Strength Products" },
-      { "title": "Strong Manufacturer Partnerships" },
-      { "title": "Fast, On-Time Delivery" },
-      { "title": "Competitive Pricing" },
-      { "title": "Wide Product Range Under One Roof" }
+      {
+        "title": "Specialized Facial Expertise"
+      },
+      {
+        "title": "Customized Treatment Plans"
+      },
+      {
+        "title": "Premium Medical-Grade Products"
+      },
+      {
+        "title": "Experienced, Certified Estheticians"
+      },
+      {
+        "title": "Relaxing, Welcoming Environment"
+      },
+      {
+        "title": "Visible, Lasting Results"
+      }
     ]
   },
   "certifications": {
-    "sectionLabel": "Our Certifications & Partners",
-    "heading": "Quality You Can Trust",
+    "sectionLabel": "Our Expertise & Credentials",
+    "heading": "Professional Excellence You Can Trust",
     "items": [
-      { "num": "01", "title": "All Products are ISI Certified" },
-      { "num": "02", "title": "Sourced from Top-Tier Manufacturers" },
-      { "num": "03", "title": "Strict Quality Control for Strength, Shape, Gauge & Bonding" }
+      {
+        "num": "01",
+        "title": "Certified Estheticians with Continuing Education"
+      },
+      {
+        "num": "02",
+        "title": "Licensed Use of Professional-Grade Skincare Lines"
+      },
+      {
+        "num": "03",
+        "title": "Dermatologist-Recommended Treatment Protocols"
+      }
     ]
   },
   "services": {
-    "sectionLabel": "Service Excellence",
-    "heading": "Delivering Beyond Expectations",
+    "sectionLabel": "Facial Services",
+    "heading": "Transforming Skin, Boosting Confidence",
     "items": [
       {
-        "title": "Fast & On-Time Delivery",
-        "desc": "We understand project timelines. Our logistics ensure your material arrives exactly when you need it."
+        "title": "Personalized Skin Analysis",
+        "desc": "Our estheticians thoroughly assess your skin type, concerns, and goals to recommend the perfect facial treatment tailored just for you."
       },
       {
-        "title": "High Accuracy in Order Fulfillment",
-        "desc": "Precise quantities, correct grades, and verified dimensions on every single order."
+        "title": "Advanced Facial Techniques",
+        "desc": "From classic European facials to cutting-edge chemical peels and microdermabrasion, we offer proven treatments that deliver visible results."
       },
       {
-        "title": "Technical Support & Customized Solutions",
-        "desc": "Our experts help you choose the right product and can supply made-to-order specifications."
+        "title": "Luxury Spa Experience",
+        "desc": "Relax in our serene, professionally designed environment while we pamper your skin with the utmost care and attention to detail."
       }
     ]
   },
   "brands": [
-    "ROOPAM STEEL", "TATA STEEL", "SAIL (सेल)", "VIZAG STEEL",
-    "PUSHPA TMX 500", "RAJURI STEEL", "BHUSHAN POWER & STEEL",
-    "SHREE OM 500 TMT", "RAMA STEEL", "ICON STEEL TMT REBAR",
-    "APL APOLLO", "UMA 550 TMT BARS", "KALIKA STEEL", "GSPL 500 TMT", "JSW STEEL"
+    "SkinCeuticals",
+    "Obagi",
+    "Dermalogica",
+    "Environ",
+    "PCA Skin",
+    "ZO Skin Health",
+    "Neostrata",
+    "IMAGE Skincare",
+    "Hydropeptide",
+    "Pevonia",
+    "Glymed Plus",
+    "Sensi Peel",
+    "Epicare",
+    "Eminence Organic Skin Care",
+    "Circadia"
   ],
   "caseStudies": [
     {
       "num": "01",
-      "title": "Industrial Packers",
-      "client": "Client: Gaurav",
-      "project": "Custom Skids from Chequered Plates",
-      "desc": "We designed and supplied custom-made skids from chequered plates to securely transport engines. The skids were precisely engineered for a perfect fit, ensuring safe transport and reusability for up to 5 years. With a 7-year track record of supplying quality raw materials like channels & plates, we delivered a durable, returnable solution that met all requirements for accuracy, strength, and ease of handling."
+      "title": "Acne Transformation",
+      "client": "Client: Sarah M.",
+      "project": "8-Week Acne Clearing Facial Series",
+      "desc": "Sarah struggled with persistent breakouts and scarring for years. Through our customized acne-targeting facial series combined with targeted extractions and medical-grade products, her skin cleared dramatically within 8 weeks. Follow-up maintenance facials now keep her complexion clear and confident."
     },
     {
       "num": "02",
-      "title": "Omkar Industries",
-      "client": "Client: Omkar Joshi (Owner)",
-      "project": "Custom-Dimension CRC Sheets",
-      "desc": "Omkar Industries required made-to-order CRC sheets in precise dimensions: 435 × 1250 × 1.5 mm and 353 × 1250 × 1.5 mm. They needed sheets with exact measurements, high-quality finish, scratch-free surfaces, no rust, and secure packaging. We delivered perfectly matched material meeting all quality standards."
+      "title": "Anti-Aging Renewal",
+      "client": "Client: Michelle R.",
+      "project": "Monthly Anti-Aging Facial Program",
+      "desc": "Michelle came to us concerned about fine lines and loss of elasticity. Our signature anti-aging facials featuring advanced serums and techniques have visibly reduced her wrinkles and restored her skin's youthful glow. She's been a loyal client for 18 months and loves the sustained results."
     },
     {
       "num": "03",
-      "title": "Patil Automation Limited",
-      "client": "6-Year Partnership",
-      "project": "Plates, Angles, Channels & CRC Sheets",
-      "desc": "Referred by BNI member Shashi Ji, we began supplying plates, angles, channels, CRC sheets and more to Patil Automation Limited six years ago. Our quality and timely service have made this a lasting partnership that continues today."
+      "title": "Hydration & Brightness",
+      "client": "Client: Jennifer T.",
+      "project": "Intensive Hydrating Facial Program",
+      "desc": "Jennifer's dehydrated, dull skin lacked moisture and radiance. Our deep hydrating facials infused her skin with intensive moisture and brightening treatments. After just 3 sessions, her skin transformed to become visibly plump, glowing, and luminous."
     },
     {
       "num": "04",
-      "title": "Convill Landmark",
-      "client": "₹10 Crore Project",
-      "project": "PMC Bars for Entire Development",
-      "desc": "Through a strong referral from BNI members Kareem Chambe and Omkar, we connected with Convill Landmark. This recommendation led to a ₹10 crore project, where we supplied PMC bars for the entire development."
+      "title": "Chemical Peel Success",
+      "client": "Client: Amanda K.",
+      "project": "Series of Professional Chemical Peels",
+      "desc": "Amanda had uneven skin tone and sun damage. A carefully planned series of our professional chemical peels progressively treated her concerns, revealing smoother, more even-toned, youthful-looking skin with minimal downtime."
     },
     {
       "num": "05",
-      "title": "Doodh Techno Projects",
-      "client": "3-Year Partnership",
-      "project": "TMT Bars & Structural Steel",
-      "desc": "Referred by member Shubham, we have been supplying TMT bars and structural steel to Doodh Techno Projects for the past three years, ensuring consistent quality and timely delivery."
+      "title": "Sensitive Skin Revival",
+      "client": "Client: Lisa G.",
+      "project": "Gentle Customized Facial Program",
+      "desc": "Lisa's sensitive skin had been difficult to treat elsewhere. Our estheticians designed a gentle yet effective customized facial program using hypoallergenic products. Her skin now thrives with reduced redness and improved resilience."
     },
     {
       "num": "06",
-      "title": "Praveen Rawat & Associates",
-      "client": "3-Year Partnership",
-      "project": "TMT Bars for Modern College Contractors",
-      "desc": "Referred by member Sandeep Shah, we began supplying TMT bars to Praveen Rawat and Associates, contractors for Modern College, for the past three years."
+      "title": "Rosacea Management",
+      "client": "Client: Patricia H.",
+      "project": "Specialized Calming Facial Treatments",
+      "desc": "Patricia's rosacea flare-ups were constant and frustrating. Through our specialized calming facials with soothing ingredients and gentle techniques, her skin has achieved unprecedented calm and stability. She maintains results with monthly treatments."
     }
   ],
   "clients": [
-    "Abhiyanta PMC Pvt Ltd", "Matchwell Engineering Pvt Ltd",
-    "Darsheel Construction", "Mahati Industries Pvt Ltd",
-    "Elements Technofabs Pvt Ltd", "Omkar Industries",
-    "Konbil Landmarks", "Patil Automation",
-    "Industrial Packers", "Pravin Raut & Associates",
-    "Innoova Construction", "Q Point Engineering",
-    "Surich Industries", "Scon Projects"
+    "Emma S.",
+    "Victoria L.",
+    "Rachel M.",
+    "Amanda P.",
+    "Jessica K.",
+    "Nicole T.",
+    "Sarah W.",
+    "Lauren J.",
+    "Michelle D.",
+    "Rebecca H.",
+    "Ashley N.",
+    "Crystal B.",
+    "Sophia R.",
+    "Olivia C."
   ],
   "contact": {
     "sectionLabel": "Get In Touch",
-    "heading": "Let's Build Something Strong Together",
-    "subheading": "Reach out to us for inquiries, quotes, or customized steel solutions. We're ready to serve your project needs.",
-    "phone": "+91 98604 89490",
-    "email": "namotradelink@gmail.com",
-    "address": "Office No. 801, Apex Business Court,\nNear Gangadham, Pune 411037",
-    "businessType": "Iron & Steel Merchants"
+    "heading": "Ready for Radiant Skin?",
+    "subheading": "Contact us to schedule your personalized facial consultation. Our team is excited to help you achieve your skincare goals.",
+    "phone": "+1 (555) 248-3627",
+    "email": "hello@thefacemakers.com",
+    "address": "325 Wellness Avenue,\nSuite 210, Marina District\nCalifornia 94102",
+    "businessType": "Professional Beauty Salon"
   },
   "footer": {
-    "brandName": "NAMO STEEL",
-    "tagline": "Trusted dealers in construction and industrial steel products since 1995. Serving the industry with quality, reliability, and competitive pricing.",
-    "presentedBy": "Pratik Khivsara",
-    "presentedEmail": "namotradelink@gmail.com",
-    "presentedPhone": "+91 98604 89490",
-    "copyright": "© 2025 Namo Steel. All rights reserved. | Iron & Steel Merchants Since 1995"
+    "brandName": "The Face Makers",
+    "tagline": "Expert facial treatments and professional skincare solutions designed to help you feel confident and beautiful. Personalized care for radiant skin.",
+    "presentedBy": "The Face Makers Team",
+    "presentedEmail": "hello@thefacemakers.com",
+    "presentedPhone": "+1 (555) 248-3627",
+    "copyright": "© 2026 The Face Makers. All rights reserved.",
+    "ctaText": "Get in Touch"
   },
   "products": {
-    "sectionLabel": "Our Product Range",
-    "heading": "Steel Solutions for Every Need",
+    "sectionLabel": "Our Facial Treatments",
+    "heading": "Specialized Facials for Every Skin Need",
     "flat": [
-      { "title": "M.S-HRC Plate", "desc": "Hot rolled coil plates for heavy construction & fabrication.", "img": "/products/ms-hrc-plate.jpeg" },
-      { "title": "CRC Plate", "desc": "Cold rolled plates with smooth finish and precision thickness.", "img": "/products/crc-plate.jpeg" },
-      { "title": "Sheet", "desc": "Versatile steel sheets for industrial and structural applications.", "img": "/products/sheet.jpeg" },
-      { "title": "GP Plate", "desc": "Galvanized plates offering superior corrosion resistance.", "img": "/products/gp-plate.jpeg" }
+      {
+        "title": "European Classic Facial",
+        "desc": "A timeless treatment combining cleansing, exfoliation, extraction, massage and mask for deep rejuvenation.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Hydrating Facial",
+        "desc": "Intensive moisture treatment infusing serums and masks to plump, nourish and restore dehydrated skin.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Brightening Facial",
+        "desc": "Specialized treatment featuring vitamin C and advanced brightening agents to reveal luminous, even-toned skin.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Customized Facial",
+        "desc": "Personalized treatment tailored to your unique skin type and concerns for optimal results.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      }
     ],
     "tubular": [
-      { "title": "M.S Pipes", "desc": "Mild steel pipes for structural and industrial piping needs.", "img": "/products/ms-pipes.jpeg" },
-      { "title": "GP Pipes", "desc": "Galvanized pipes for plumbing, fencing, and construction.", "img": "/products/gp-pipes.jpeg" },
-      { "title": "CRC Pipes", "desc": "Cold rolled pipes with smooth finish for precision use cases.", "img": "/products/crc-pipes.jpeg" }
+      {
+        "title": "Chemical Peel - Light",
+        "desc": "Gentle exfoliating peel for surface renewal and mild skin concerns with minimal downtime.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Chemical Peel - Medium",
+        "desc": "Advanced peel addressing moderate aging signs, hyperpigmentation and texture irregularities.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Chemical Peel - Deep",
+        "desc": "Professional-strength peel for significant skin transformation and advanced anti-aging results.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
     ],
     "structural": [
-      { "title": "Angles (Z, T, Equal)", "desc": "Structural angles for framing, brackets & support structures.", "img": "/products/angles.jpeg" },
-      { "title": "Flats", "desc": "Steel flats for fabrication, gates, grills & industrial uses.", "img": "/products/flats.jpeg" },
-      { "title": "Beams", "desc": "I-beams & H-beams for load-bearing structural applications.", "img": "/products/beams.jpeg" },
-      { "title": "Channels", "desc": "C-channels and U-channels for structural frameworks.", "img": "/products/channels.jpeg" },
-      { "title": "TMT Bars", "desc": "ISI-certified TMT bars for RCC construction & reinforcement.", "img": "/products/tmt-bars.jpeg" },
-      { "title": "CRC Coils", "desc": "Cold rolled coils for manufacturing and automotive parts.", "img": "/products/crc-coils.jpeg" }
+      {
+        "title": "Microdermabrasion Facial",
+        "desc": "Physical exfoliation treatment that refines texture, reduces pores and promotes skin renewal.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Anti-Aging Facial",
+        "desc": "Advanced treatment targeting fine lines, wrinkles and loss of elasticity with specialized serums and techniques.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Acne-Targeting Facial",
+        "desc": "Specialized treatment with deep cleansing, targeted extractions and antibacterial products to clear breakouts.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Sensitive Skin Facial",
+        "desc": "Gentle, calming treatment using hypoallergenic products for reactive and easily irritated skin.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Rosacea Relief Facial",
+        "desc": "Soothing specialized treatment designed to calm inflammation and reduce visible redness.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Post-Procedure Recovery Facial",
+        "desc": "Gentle healing treatment to support skin recovery after cosmetic procedures with protective ingredients.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      }
     ],
     "roofing": [
-      { "title": "Polycarbonate Sheets", "desc": "Transparent & UV-resistant sheets for skylights & roofing.", "img": "/products/polycarbonate-sheets.jpeg" },
-      { "title": "GI Corrugated & Perforated Sheets", "desc": "Durable galvanized sheets for industrial roofing applications.", "img": "/products/gi-corrugated-perforated-sheets.jpeg" },
-      { "title": "Colour Coated Sheets", "desc": "Pre-painted sheets available in multiple colours and profiles.", "img": "/products/colour-coated-sheets.jpeg" },
-      { "title": "Deck Sheets", "desc": "Structural deck sheets for composite flooring systems.", "img": "/products/deck-sheets.jpeg" }
+      {
+        "title": "Oxygen Infusion Facial",
+        "desc": "Luxe treatment delivering oxygen and serums deep into skin for instant radiance and plumpness.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Microcurrent Lifting Facial",
+        "desc": "Non-invasive facial using gentle microcurrent technology to lift, firm and tone facial muscles.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      },
+      {
+        "title": "Hydra Derm Facial",
+        "desc": "Advanced hydration treatment using professional technology to infuse moisture and restore skin's natural glow.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Enzyme Brightening Facial",
+        "desc": "Natural enzymatic exfoliation paired with brightening actives for a luminous, refreshed complexion.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      }
     ],
     "accessories": [
-      { "title": "Weld Mesh & Chain Link", "desc": "For fencing, partitions and reinforcement mesh applications.", "img": "/products/weld-mesh-chain-link.jpeg" },
-      { "title": "Self Tapping Screws", "desc": "High-quality screws for sheet metal and roofing fastening.", "img": "/products/self-tapping-screws.jpeg" },
-      { "title": "Binding Wire", "desc": "Annealed wire for tying reinforcement bars in construction.", "img": "/products/binding-wire.jpeg" },
-      { "title": "Cement Sheet", "desc": "Fibre cement sheets for roofing & wall cladding applications.", "img": "/products/cement-sheet.jpeg" },
-      { "title": "Plate Cutting", "desc": "Custom plasma/gas cutting service to exact dimensions.", "img": "/products/plate-cutting.jpeg" },
-      { "title": "Foundation Bolts", "desc": "Anchor bolts for machinery and structural foundation use.", "img": "/products/foundation-bolts.jpeg" }
+      {
+        "title": "Facial Add-On: Hand & Arm Treatment",
+        "desc": "Extend your facial care with a luxurious hand and arm treatment using the same premium products.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Facial Add-On: Neck & Décolletage",
+        "desc": "Include often-neglected neck and chest areas in your facial for complete visible skin transformation.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Facial Add-On: Hydrating Mask Upgrade",
+        "desc": "Enhance any facial with a premium hydrating or specialized mask treatment for deeper results.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Facial Add-On: LED Light Therapy",
+        "desc": "Boost facial results with professional LED light therapy to target specific skin concerns.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Skincare Consultation Package",
+        "desc": "Professional at-home skincare regimen design to maintain and extend your facial treatment results.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Membership: 6-Facial Package",
+        "desc": "Save with our popular package of 6 monthly facials tailored to your skin goals and concerns.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      }
     ]
+  },
+  "cta": {
+    "label": "Get in Touch",
+    "buttonText": "Get in Touch"
   }
 }
